@@ -2,8 +2,6 @@
 
 Final project for the Computer Vision class at Automation and Systems Engineering master's degree program.
 
-<img src="exemplo-image.png" alt="exemplo imagem">
-
 ## Abstract
 
 O objetivo deste trabalho é aplicar técnicas de visão computacional clássica e redes neurais convolucionais na segmentação de madeira em imagens. A segmentação por visão clássica é feita através de uma limiarização no espaço de cor HSV, seguida de operações morfológicas de fechamento, abertura e por fim é aplicado o algoritmo de envoltório convexo. A aplicação da CNN trata de uma segmentação semântica seguindo a estrutura da U-Net em conjunto com o modelo Resnet34. Ambas abordagens apresentaram bons resultados e, por fim, escolheu-se a segmentação semântica da CNN em conjunto com um pós processamento envolvendo os algoritmos clássicos de visão.
@@ -26,4 +24,4 @@ A segunda forma de resolver o problema da segmentação é através do uso de um
 
 Os resultados, discussões, conclusão e maiores detalhes podem ser encontrados no PDF 'Poster_INE' no repositório.
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#LogSegmentation)<br>
