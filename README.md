@@ -1,6 +1,8 @@
 # LogSegmentation
 
-Final project for the Computer Vision class at Automation and Systems Engineering master's degree program.
+Trabalho final para a disciplina de Visão Computacional (INE410121-41000025DO/ME (20212)) no Programa de Pós-Graduação em Engenharia de Automação e Sistemas pela Universidade Federal de Santa Catarina.
+
+Os dois principais arquivos são "Classic_Wood_Log_Segmentation.ipynb" que contém a abordagem clássica e "CNN_Wood_Log_Segmentation.ipynb" que contém a abordagem envolvendo Redes Neurais Convolucionais. Ambos os documentos são auto explicativos.
 
 ## Abstract
 
