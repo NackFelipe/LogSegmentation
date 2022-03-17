@@ -14,7 +14,7 @@ A primeira forma de resolver esse problema é através das técnicas disponívei
 
 <img src="morfo.png" alt="Operação morfológica.">
 
-Na sequência basta realizar a análise de componentes conexos, selecionar o maior elemento presente na imagem e, então, aplicar um algoritmo de geração de envoltório convexo para reconstruir o formado da madeira. Perceba que essa sequência de processamento funciona bem para toras de madeira cuja face tem formato próximo de uma elipse. O resultado deve ser parecido com aquele visto na figura seguinte.
+Na sequência basta realizar a análise de componentes conexos, selecionar o maior elemento presente na imagem e, então, aplicar um algoritmo de geração de envoltório convexo para reconstruir o formato da madeira. Perceba que essa sequência de processamento funciona bem para toras de madeira cuja face tem formato próximo de uma elipse. O resultado deve ser parecido com aquele visto na figura seguinte.
 
 <img src="convex.png" alt="Operação de envoltório convexo.">
 
