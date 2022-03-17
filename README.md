@@ -24,6 +24,6 @@ A segunda forma de resolver o problema da segmentação é através do uso de um
 
 <img src="unet.png" alt="Arquitetura da U-Net.">
 
-Os resultados, discussões, conclusão e maiores detalhes podem ser encontrados no PDF 'Poster_INE' no repositório.
+Os resultados, discussões, conclusão e maiores detalhes podem ser encontrados no PDF 'poster' no repositório.
 
 [⬆ Voltar ao topo](#LogSegmentation)<br>
